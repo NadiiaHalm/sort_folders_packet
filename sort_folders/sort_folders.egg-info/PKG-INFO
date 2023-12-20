@@ -1,0 +1,8 @@
+Metadata-Version: 2.1
+Name: sort-folders
+Version: 0.0.1
+Summary: Very usefull code for sorting your folders
+Home-page: https://github.com/NadiiaHalm/sort_folders.git
+Author: NADIIA HALMANCHENKO
+License: MIT
+Requires-Dist: markdown

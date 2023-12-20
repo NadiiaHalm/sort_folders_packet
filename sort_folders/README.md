@@ -1,0 +1,1 @@
+Very usefull code for scaning your folders

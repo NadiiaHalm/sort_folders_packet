@@ -1,0 +1,12 @@
+README.md
+setup.py
+sort_folders/__init__.py
+sort_folders/main.py
+sort_folders/normalize.py
+sort_folders/scan.py
+sort_folders.egg-info/PKG-INFO
+sort_folders.egg-info/SOURCES.txt
+sort_folders.egg-info/dependency_links.txt
+sort_folders.egg-info/not-zip-safe
+sort_folders.egg-info/requires.txt
+sort_folders.egg-info/top_level.txt
